@@ -17,8 +17,8 @@ socials:
     link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: 2rd-year Master Student at ZJU
+email: zixin_wang AT zju DOT edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
