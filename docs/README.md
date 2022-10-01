@@ -7,7 +7,7 @@ profile: /zixin.jpg
 
 
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: /CV_Zixin_Wang_Academic.pdf
 bio: 2rd-year Master Student at Zhejiang University (ZJU)
 email: zixin_wang AT zju DOT edu
 ---
