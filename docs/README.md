@@ -8,7 +8,7 @@ profile: /zixin.jpg
 
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: 2rd-year Master Student at ZJU
+bio: 2rd-year Master Student at Zhejiang University (ZJU)
 email: zixin_wang AT zju DOT edu
 ---
 
@@ -25,11 +25,15 @@ I am interested in Human-Computer Interaction, Health Informatics, Decision Maki
 
 
 **Anonymous Expression in an Online Community for Women in China**
-Zhixuan Zhou, __Zixin Wang__, and Franziska Zimmer
-In 56th Hawaii International Conference on System Sciences (HICSS) [Paper]
+
+Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer
+
+In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
 **How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**
-Xiang Chen, Jiamu Xie, __Zixin Wang__, Zhixuan Zhou, Bohui Shen, and Yifei Wang
+
+Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Zhixuan Zhou, Bohui Shen, and Yifei Wang
+
 Submitted to iConference
 
 ## Services
