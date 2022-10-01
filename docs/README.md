@@ -6,7 +6,7 @@ name: Zixin Wang 王梓昕
 profile: /zixin.jpg
 
 socials:
-  - title: github
+  - title: Zixin Wang
     icon: "/icons/github.svg"
     link: https://github.com/mtobeiyf
   - title: linkedin
@@ -25,14 +25,14 @@ email: harry (at) hogwarts (dot) edu
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors.
+I am Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+##Research Interests
 
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
+- [08/2022] One paper accepted and one paper accepted to [HICSS](https://hicss.hawaii.edu/)! See you in Hawaii!
 - [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
 
 
