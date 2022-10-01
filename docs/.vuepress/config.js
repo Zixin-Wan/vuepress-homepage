@@ -9,8 +9,6 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "Publications", link: "/about/" },
-      { text: "Service", link: "/projects/" },
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
