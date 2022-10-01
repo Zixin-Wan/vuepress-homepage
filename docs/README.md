@@ -27,47 +27,17 @@ email: zixin_wang AT zju DOT edu
 
 I am Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-##Research Interests
-
+## Research Interests
+Human-Computer Interaction, Health Informatics, Decision Making, Behavioral Data Science
 
 ## News
 
 - [08/2022] One paper accepted and one paper accepted to [HICSS](https://hicss.hawaii.edu/)! See you in Hawaii!
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [09/2021] I've decided to pursue my Master degree in the [ZJU](https://www.zju.edu.cn/), and spend the next 3 years in Hangzhou, China.
+- [06/2020] I'm an Excellent College Graduate of Chongqing Province, China.
+- [04/2020] One paper accepted to [Psychology:Techniques and Application](http://www.xljsyyy.com/)
 
 
-## Education & Experiences
-
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
-
-
-## Projects
-
-
-[→ Full list](/projects/)
-
-<ProjectCard image="/projects/1.png" hideBorder=true>
-
-  **The Making of Harry Potter's Wand**
-
-  Harry P., Hermione G., *et al*
-
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **Harry Potter and the Deathly Hallows**
-
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
-  [[Link](https://www.google.com)]
-
-</ProjectCard>
 
 
 ## Awards & Honors
