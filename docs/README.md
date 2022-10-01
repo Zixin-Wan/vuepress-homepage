@@ -5,16 +5,7 @@ pageClass: home-page
 name: Zixin Wang 王梓昕
 profile: /zixin.jpg
 
-socials:
-  - title: Zixin Wang
-    icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: 2rd-year Master Student at ZJU
@@ -27,24 +18,28 @@ email: zixin_wang AT zju DOT edu
 
 I am Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-## Research Interests
-Human-Computer Interaction, Health Informatics, Decision Making, Behavioral Data Science
+I am interested in Human-Computer Interaction, Health Informatics, Decision Making, Behavioral Data Science.
 
-## News
-
-- [08/2022] One paper accepted and one paper accepted to [HICSS](https://hicss.hawaii.edu/)! See you in Hawaii!
-- [09/2021] I've decided to pursue my Master degree in the [ZJU](https://www.zju.edu.cn/), and spend the next 3 years in Hangzhou, China.
-- [06/2020] I'm an Excellent College Graduate of Chongqing Province, China.
-- [04/2020] One paper accepted to [Psychology:Techniques and Application](http://www.xljsyyy.com/)
+## Publications
 
 
 
+**Anonymous Expression in an Online Community for Women in China**
+Zhixuan Zhou, __Zixin Wang__, and Franziska Zimmer
+In 56th Hawaii International Conference on System Sciences (HICSS) [Paper]
 
-## Awards & Honors
+**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**
+Xiang Chen, Jiamu Xie, __Zixin Wang__, Zhixuan Zhou, Bohui Shen, and Yifei Wang
+Submitted to iConference
 
-### Contests
+## Services
+**Conference reviewer**: HICSS 2022
 
-- First place in **The Hogwarts House Cup**
+
+
+
+
+
 
 
 <!-- Custom style for this page -->
