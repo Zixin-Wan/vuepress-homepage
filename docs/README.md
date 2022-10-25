@@ -24,7 +24,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 
 ## Publications
 
-**Exploring Tenants’ Preferences of Privacy Negotiation in Air**<br><u>Zixin Wang</u>, and Yaxing Yao <br>Submitted to USENIX
+**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, and Yaxing Yao <br>Submitted to USENIX
 
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
