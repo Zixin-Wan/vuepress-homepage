@@ -9,7 +9,7 @@ profile: /zixin.jpg
 
 cv: /CV_Zixin_Wang_Academic.pdf
 bio: 2rd-year Master Student at Zhejiang University (ZJU)
-email: zixin_wang AT zju DOT edu
+email: zixin_wang AT zju DOT edu DOT cn
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -18,18 +18,20 @@ email: zixin_wang AT zju DOT edu
 
 I am Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-I am interested in Human-Computer Interaction, Health Informatics, Decision Making, Behavioral Data Science.
+Previously, I was a research assitant at the [University of Maryland, Baltimore County](https://informationsystems.umbc.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), the [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](www.he-lab.cn).
+
+I am interested in Human-Computer Interaction, Privacy and Security, Social Media, Decision Making, and Behavioral Data Science, using quantitative (i.e., survey) and qualitative (i.e., interview, content analysis) methods.
 
 ## Publications
 
-
+**Exploring Tenants’ Preferences of Privacy Negotiation in Air**<br><u>Zixin Wang</u>, and Yaxing Yao <br>Submitted to USENIX
 
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
 **How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Zhixuan Zhou, Bohui Shen, and Yifei Wang<br>Submitted to iConference
 
 ## Services
-**Conference reviewer**: HICSS 2022
+**Conference reviewer**: HICSS 2023
 
 
 
