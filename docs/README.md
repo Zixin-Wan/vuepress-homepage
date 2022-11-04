@@ -30,8 +30,8 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
-**Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He. 
-Psychology:Techniques and Application, 8(4): 206–213.
+**Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
+Psychology: Techniques and Application, 8(4): 206–213.
 
 ## Services
 **Conference reviewer**: HICSS 2023
