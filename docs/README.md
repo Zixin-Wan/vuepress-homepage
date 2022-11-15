@@ -24,7 +24,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 
 ## Publications
 
-**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> In submission
+**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> Submitted to USENIX 2023
 
 **How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In iConference 2023
 
