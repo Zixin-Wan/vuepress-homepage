@@ -24,17 +24,17 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 
 ## Publications
 
-<font color=red>Privacy and Security</font>
+### <font color=red>Privacy and Security</font>
 **Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> Submitted to USENIX Security' 23
 
 **Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao and Josiah Hester<br> Submitted to USEC23
 
-<font color=blue>Social Media</font>
+### <font color=blue>Social Media</font>**
 **How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In iConference 2023
 
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
-<font color=green>Others</font>
+### <font color=green>Others</font>**
 **The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, Zhixuan Zhou, <u>Zixin Wang</u>, and Alin Stefanescu<br> Work in progress
 
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
