@@ -35,7 +35,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
 ### <font color=green>Others</font>
-**The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> Work in progress
+**The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> Submitted to ICBC
 
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
 Psychology: Techniques and Application, 8(4): 206–213.
