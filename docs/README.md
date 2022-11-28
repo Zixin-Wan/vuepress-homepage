@@ -38,7 +38,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 **The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> Submitted to ICBC
 
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
-Psychology: Techniques and Application, 8(4): 206–213.
+Psychology: Techniques and Application, 8(4): 206–213. [[Paper](http://www.xljsyyy.com/CN/abstract/abstract415.shtml)]
 
 ## Services
 **Conference reviewer**: HICSS 2023
