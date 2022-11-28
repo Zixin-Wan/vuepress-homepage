@@ -30,7 +30,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 **Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao and Josiah Hester<br> Submitted to USEC23
 
 ### <font color=blue>Social Media</font>
-**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In iConference 2023
+**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In iConference 2023 [[Paper](https://arxiv.org/pdf/2211.13748.pdf)]
 
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
