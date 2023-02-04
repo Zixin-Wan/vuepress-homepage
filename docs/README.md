@@ -4,7 +4,8 @@ pageClass: home-page
 
 name: Zixin Wang 王梓昕
 profile: /zixin.jpg
-
+social:
+https://scholar.google.com/citations?user=6qxfN_4AAAAJ&hl=zh-CN
 
 
 cv: /CV_Zixin_Wang_Academic.pdf
