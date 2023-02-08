@@ -5,7 +5,8 @@ pageClass: home-page
 name: Zixin Wang 王梓昕
 profile: /zixin.jpg
 socials:
-- title: google
+- title: google scholar
+  icon: /icons/gs.svg
   link: https://scholar.google.com/citations?user=6qxfN_4AAAAJ&hl=en
 
 
