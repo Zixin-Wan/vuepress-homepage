@@ -41,7 +41,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 ### <font color=green>Blockchain</font>
 **The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> Submitted to 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS
 
-**How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli,Johannes Sedlmeir, and <u>Zixin Wang<u><br> 
+**How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli,Johannes Sedlmeir, and <u>Zixin Wang</u><br> 
 Submitted to Environment, Development and Sustainability (ENVI)
 
 ### <font color=purple>Other</font>
