@@ -29,7 +29,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 ## Publications
 
 ### <font color=red>Privacy and Security</font>
-**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> Submitted to USENIX Security '23
+**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> In 32nd USENIX Security Symposium
 
 **Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao and Josiah Hester<br> Workshop on Usable Security and Privacy (USEC) 2023 [[Paper](https://arxiv.org/abs/2301.11998)]
 
