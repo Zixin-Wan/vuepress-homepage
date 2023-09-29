@@ -22,7 +22,7 @@ email: zixin_wang AT zju DOT edu DOT cn
 
 I am Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-Previously, I was a research assitant at the [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), the [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He]([www.he-lab.cn](http://he-lab.cn/)).
+Previously, I was a research assitant at the [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), the [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/)).
 
 I am interested in Human-Computer Interaction, Privacy and Security, Social Media, Decision Making, and Behavioral Data Science, using quantitative (i.e., survey) and qualitative (i.e., interview, content analysis) methods.
 
