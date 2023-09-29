@@ -33,6 +33,9 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 
 **Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao and Josiah Hester<br> Workshop on Usable Security and Privacy (USEC) 2023 [[Paper](https://arxiv.org/abs/2301.11998)]
 
+**VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services** 
+Submitted to CHI conference on Human Factors in Computing Systems.
+
 ### <font color=blue>Social Media</font>
 **How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In iConference 2023 [[Paper](https://arxiv.org/pdf/2211.13748.pdf)]
 
@@ -42,7 +45,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 **The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf)]
 
 **How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli,Johannes Sedlmeir, and <u>Zixin Wang</u><br> 
-Submitted to Environment, Development and Sustainability (ENVI)
+Submitted to Oxford Open Energy
 
 ### <font color=purple>Other</font>
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
