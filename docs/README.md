@@ -33,7 +33,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 
 **Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao and Josiah Hester<br> Workshop on Usable Security and Privacy (USEC) 2023 [[Paper](https://arxiv.org/abs/2301.11998)]
 
-**VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services**<br> 
+**VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services**<br><br> 
 Submitted to CHI conference on Human Factors in Computing Systems.
 
 ### <font color=blue>Social Media</font>
