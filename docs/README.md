@@ -45,7 +45,7 @@ Submitted to CHI conference on Human Factors in Computing Systems.
 **The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf)]
 
 **How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli,Johannes Sedlmeir, and <u>Zixin Wang</u><br> 
-Submitted to Oxford Open Energy
+In Oxford Open Energy
 
 ### <font color=purple>Other</font>
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
