@@ -37,7 +37,7 @@ I am interested in Human-Computer Interaction, Privacy and Security, Social Medi
 Submitted to CHI conference on Human Factors in Computing Systems.
 
 ### <font color=blue>Social Media</font>
-**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In iConference 2023 [[Paper](https://arxiv.org/pdf/2211.13748.pdf)]
+**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In 18th iConference [[Paper](https://arxiv.org/pdf/2211.13748.pdf)]
 
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
