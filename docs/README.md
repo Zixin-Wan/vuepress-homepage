@@ -53,7 +53,7 @@ In Oxford Open Energy 2023
 
 ### <font color=purple>Other</font>
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
-Psychology: Techniques and Application, 8(4): 206–213 2019 [[Paper](http://www.xljsyyy.com/CN/abstract/abstract415.shtml)]
+Psychology: Techniques and Application, 8(4): 206–213 2020 [[Paper](http://www.xljsyyy.com/CN/abstract/abstract415.shtml)]
 
 ## Services
 **Conference reviewer**: HICSS 2023, CHI Late-breaking Work 2023
