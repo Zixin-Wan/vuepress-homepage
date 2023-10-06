@@ -30,7 +30,7 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 
 ### <font color=red>Privacy and Security</font>
 **VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services**<br>Tu Le, <u>Zixin Wang</u>, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian<br> 
-Submitted to CHI conference on Human Factors in Computing Systems
+Submitted to CHI conference on Human Factors in Computing Systems 2024
 
 **Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> In 32nd USENIX Security Symposium 2023 [[Paper](https://www.usenix.org/system/files/usenixsecurity23-wang-zixin.pdf)]
 
@@ -44,7 +44,7 @@ Submitted to CHI conference on Human Factors in Computing Systems
 **Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) 2022 [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
 ### <font color=green>Blockchain</font>
-**How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, and <u>Zixin Wang</u><br> In Oxford Open Energy 2023[[Paper](https://arxiv.org/abs/2208.00280)]
+**How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, and <u>Zixin Wang</u><br> In Oxford Open Energy 2023 [[Paper](https://arxiv.org/abs/2208.00280)]
 
 **The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou<br> In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS 2022 [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf)]
 
