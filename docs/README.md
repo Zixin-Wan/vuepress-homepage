@@ -31,7 +31,7 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 ### <font color=red>Privacy and Security</font>
 1. **[Draft]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
-[VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services].
+VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services.
 *Submitted to CHI conference on Human Factors in Computing Systems 2024*.
 
 1. **[USENIX Security ’23]**
