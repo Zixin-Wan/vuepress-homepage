@@ -42,7 +42,7 @@ VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and A
 1. **[USEC ’23]**
 Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick Feamster, Danny Yuxing Huang, Yaxing Yao, and Josiah Hester. 2023.
 [Toward Identifying Home Privacy Leaks Using Augmented Reality](https://arxiv.org/abs/2301.11998.pdf).
-*In 32nd USENIX Security Symposium*.
+*In Workshop on Usable Security and Privacy (USEC)*.
 
 
 ### <font color=blue>Social Media</font>
