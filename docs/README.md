@@ -12,7 +12,7 @@ socials:
 
 
 cv: /CV_Zixin_Wang_Academic.pdf
-bio: 2rd-year Master Student at Zhejiang University (ZJU)
+bio: 3rd-year Master Student at Zhejiang University (ZJU)
 email: zixin_wang AT zju DOT edu DOT cn
 ---
 
@@ -20,36 +20,40 @@ email: zixin_wang AT zju DOT edu DOT cn
 
 ## About Me
 
-I am Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at the [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
+I am a Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-Previously, I was a research assitant at the [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), the [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/)).
+Previously, I was a research assitant at the [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/).
 
-I am interested in Human-Computer Interaction, Privacy and Security, Social Media, Decision Making, and Behavioral Data Science, using quantitative (i.e., survey) and qualitative (i.e., interview, content analysis) methods.
+I am interested in usable security and privacy, and HCI. I use quantitative (e.g., survey) and qualitative (e.g., interview, content analysis) methods in my research.
 
 ## Publications
 
 ### <font color=red>Privacy and Security</font>
-**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> In 32nd USENIX Security Symposium [[Paper](https://www.usenix.org/system/files/usenixsecurity23-wang-zixin.pdf)]
-
-**Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao and Josiah Hester<br> Workshop on Usable Security and Privacy (USEC) 2023 [[Paper](https://arxiv.org/abs/2301.11998)]
-
 **VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services**<br>Tu Le, <u>Zixin Wang</u>, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian<br> 
-Submitted to CHI conference on Human Factors in Computing Systems.
+Submitted to CHI conference on Human Factors in Computing Systems
+
+**Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb**<br><u>Zixin Wang</u>, Danny Yuxing Huang, and Yaxing Yao <br> In 32nd USENIX Security Symposium 2023 [[Paper](https://www.usenix.org/system/files/usenixsecurity23-wang-zixin.pdf)]
+
+**Toward Identifying Home Privacy Leaks Using Augmented Reality**<br>Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, <u>Zixin Wang</u>, Nick Feamster, Danny Yuxing Huang, Yaxing Yao, and Josiah Hester<br> Workshop on Usable Security and Privacy (USEC) 2023 [[Paper](https://arxiv.org/abs/2301.11998)]
+
+
 
 ### <font color=blue>Social Media</font>
-**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In 18th iConference [[Paper](https://arxiv.org/pdf/2211.13748.pdf)]
+**How Can We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on Chinese Social Media**<br>Xiang Chen, Jiamu Xie, <u>Zixin Wang</u>, Bohui Shen, and Zhixuan Zhou<br> In 18th iConference 2022 [[Paper](https://arxiv.org/pdf/2211.13748.pdf)]
 
-**Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
+**Anonymous Expression in an Online Community for Women in China**<br>Zhixuan Zhou, <u>Zixin Wang</u>, and Franziska Zimmer<br>In 56th Hawaii International Conference on System Sciences (HICSS) 2022 [[Paper](https://arxiv.org/pdf/2206.07923.pdf)]
 
 ### <font color=green>Blockchain</font>
-**The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf)]
+**How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, and <u>Zixin Wang</u><br> 
+In Oxford Open Energy 2023
 
-**How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria**<br>Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli,Johannes Sedlmeir, and <u>Zixin Wang</u><br> 
-In Oxford Open Energy
+**The More You Know: Energy Labels Discourage Investors from Acquiring Unsustainable Cryptocurrencies**<br>Andreea-Elena Drăgnoiu, Moritz Platt, <u>Zixin Wang</u>, Zhixuan Zhou, and Alin Stefanescu<br> In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS 2022 [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf)]
+
+
 
 ### <font color=purple>Other</font>
 **Factors Influence Financial Literacy in College Students** <br><u>Zixin Wang</u> and Qinghua He<br> 
-Psychology: Techniques and Application, 8(4): 206–213. [[Paper](http://www.xljsyyy.com/CN/abstract/abstract415.shtml)]
+Psychology: Techniques and Application, 8(4): 206–213 2019 [[Paper](http://www.xljsyyy.com/CN/abstract/abstract415.shtml)]
 
 ## Services
 **Conference reviewer**: HICSS 2023, CHI Late-breaking Work 2023
