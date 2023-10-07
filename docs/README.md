@@ -60,7 +60,7 @@ Zhixuan Zhou, **Zixin Wang**, and Franziska Zimmer. 2023.
 ### <font color=green>Blockchain</font>
 1. **[Oxford Open Energy ’23]**
 Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, and **Zixin Wang**. 2023.
-[How to Make Users Adopt More Sustainable Cryptocurrencies: Evidence from Nigeria](https://arxiv.org/abs/2208.00280.pdf).
+[Energy Demand Unawareness and the Popularity of Bitcoin: Evidence from Nigeria](https://arxiv.org/abs/2208.00280.pdf).
 *In Oxford Open Energy*.
 
 1. **[FiDeFix@ICDCS ’23]**
