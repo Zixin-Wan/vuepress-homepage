@@ -73,7 +73,7 @@ Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
 ### <font color=purple>Other</font>
 1. **[Psychology: Techniques and Application]**
 **Zixin Wang** and Qinghua He. 2020.
-[Factors Influence Financial Literacy in College Students](http://www.xljsyyy.com/CN/abstract/abstract415.shtml).
+[Examining Factors Influencing Financial Literacy of College Students](http://www.xljsyyy.com/CN/abstract/abstract415.shtml).
 *In Psychology: Techniques and Application, 8(4): 206–213*.
 
 ## Services
