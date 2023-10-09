@@ -29,41 +29,41 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 ## Publications
 
 ### <font color=red>Usable Privacy and Security</font>
-1. **[Draft]**
+- **[Draft]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
 VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services.
 *Submitted to CHI conference on Human Factors in Computing Systems*.
 
-1. **[USENIX Security ’23]**
+- **[USENIX Security ’23]**
 **Zixin Wang**, Danny Yuxing Huang, and Yaxing Yao. 2023.
 [Exploring Tenants’ Preferences of Privacy Negotiation in Airbnb](https://www.usenix.org/system/files/usenixsecurity23-wang-zixin.pdf).
 *In 32nd USENIX Security Symposium*.
 
-1. **[USEC ’23]**
+- **[USEC ’23]**
 Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick Feamster, Danny Yuxing Huang, Yaxing Yao, and Josiah Hester. 2023.
 [Toward Identifying Home Privacy Leaks Using Augmented Reality](https://arxiv.org/abs/2301.11998.pdf).
 *In Workshop on Usable Security and Privacy (USEC)*.
 
 
 ### <font color=blue>Social Media</font>
-1. **[iConference ’23]**
+- **[iConference ’23]**
 Xiang Chen, Jiamu Xie, **Zixin Wang**, Bohui Shen, and Zhixuan Zhou. 2023.
 [How We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on a Chinese Social Media](https://arxiv.org/pdf/2211.13748.pdf).
 *In 18th iConference*.
 
-1. **[HICSS ’23]**
+- **[HICSS ’23]**
 Zhixuan Zhou, **Zixin Wang**, and Franziska Zimmer. 2023.
 [Anonymous Expression in an Online Community for Women in China](https://arxiv.org/pdf/2206.07923.pdf).
 *In 56th Hawaii International Conference on System Sciences (HICSS)*.
 
 
 ### <font color=green>Blockchain</font>
-1. **[Oxford Open Energy ’23]**
+- **[Oxford Open Energy ’23]**
 Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, and **Zixin Wang**. 2023.
 [Energy Demand Unawareness and the Popularity of Bitcoin: Evidence from Nigeria](https://arxiv.org/abs/2208.00280.pdf).
 *In Oxford Open Energy*.
 
-1. **[FiDeFix@ICDCS ’23]**
+- **[FiDeFix@ICDCS ’23]**
 Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
 [The More You Know: Energy Labelling Enables More Sustainable Cryptocurrency Investment](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf).
 *In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS*.
@@ -71,12 +71,12 @@ Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
 
 
 ### <font color=purple>Other</font>
-1. **[National Academic Conference of Psychology]**
+- **[National Academic Conference of Psychology]**
    Xiping Jiang, Yue Li, **Zixin Wang**, Ziyuan Xue, and Yuan Liu.
    How Teacher Support Influences Student Life Satisfaction: A Mediating Analysis Based on PISA2018 Data.
    *In 23rd National Academic Conference of Psychology*.
     
-1. **[Psychology: Techniques and Application]**
+- **[Psychology: Techniques and Application]**
 **Zixin Wang** and Qinghua He. 2020.
 [Examining Factors Influencing Financial Literacy of College Students](http://www.xljsyyy.com/CN/abstract/abstract415.shtml).
 *In Psychology: Techniques and Application, 8(4): 206–213*.
