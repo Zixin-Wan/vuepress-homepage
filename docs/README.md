@@ -72,7 +72,7 @@ Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
 
 ### <font color=purple>Education</font>
 - **[National Academic Conference of Psychology]**
-   Xiping Jiang, Yue Li, **Zixin Wang**, Ziyuan Xue, and Yuan Liu.
+   Xiping Jiang, Yue Li, **Zixin Wang**, Ziyuan Xue, and Yuan Liu. 2021.
    How Teacher Support Influences Student Life Satisfaction: A Mediating Analysis Based on PISA2018 Data.
    *In 23rd National Academic Conference of Psychology*.
     
