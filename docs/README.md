@@ -22,7 +22,7 @@ email: zixin_wang AT zju DOT edu DOT cn
 
 I am a Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
 
-Previously, I was a research assitant at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/). I am also fortunate to have worked alongside distinguished professors such as [Danny Yuxing Huang]() and [Haojian Jin]().
+Previously, I was a research assitant at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), [University of British Columba](http://www.psych.zju.edu.cn/), advised by [Dr. Todd Woodward](https://psychiatry.ubc.ca/person/todd-woodward/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/). I am also fortunate to have worked alongside distinguished professors such as [Danny Yuxing Huang](https://engineering.nyu.edu/faculty/danny-yuxing-huang) and [Haojian Jin](http://shift-3.com/).
 
 I am interested in usable security and privacy, and HCI. I use quantitative (e.g., survey) and qualitative (e.g., interview, content analysis) methods in my research.
 
