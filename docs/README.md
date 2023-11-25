@@ -30,6 +30,11 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 
 ### <font color=red>Usable Privacy and Security</font>
 - **[Draft]**
+**Zixin Wang**, Haojian Jin, and Yaxing Yao. 2023.
+Empowering Privacy Negotiation in Airbnb through Fine-grained Preferences.
+*In Preparation*.
+    
+- **[Draft]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
 VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services.
 *Submitted to CHI conference on Human Factors in Computing Systems*.
