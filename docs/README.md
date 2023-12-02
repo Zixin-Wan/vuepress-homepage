@@ -37,7 +37,7 @@ Empowering Privacy Negotiation in Airbnb through Fine-grained Preferences.
 - **[Draft]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
 VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services.
-*Submitted to CHI conference on Human Factors in Computing Systems*.
+*In Submission*.
 
 - **[USENIX Security ’23]**
 **Zixin Wang**, Danny Yuxing Huang, and Yaxing Yao. 2023.
