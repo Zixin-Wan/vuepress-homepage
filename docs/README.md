@@ -46,7 +46,7 @@ VPAWatcher: Towards Real-time Voice Interaction Data Collection Monitoring and A
 
 - **[USEC ’23]**
 Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick Feamster, Danny Yuxing Huang, Yaxing Yao, and Josiah Hester. 2023.
-[Augmented Reality’s Potential for Identifying and Mitigating Home Privacy Leaks](https://arxiv.org/abs/2301.11998.pdf).
+[Augmented Reality’s Potential for Identifying and Mitigating Home Privacy Leaks](https://arxiv.org/pdf/2301.11998.pdf).
 *In Workshop on Usable Security and Privacy (USEC)*.
 
 
@@ -65,12 +65,12 @@ Zhixuan Zhou, **Zixin Wang**, and Franziska Zimmer. 2023.
 ### <font color=green>Blockchain</font>
 - **[Oxford Open Energy ’23]**
 Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, and **Zixin Wang**. 2023.
-[Energy Demand Unawareness and the Popularity of Bitcoin: Evidence from Nigeria](https://arxiv.org/abs/2208.00280.pdf).
+[Energy Demand Unawareness and the Popularity of Bitcoin: Evidence from Nigeria](https://arxiv.org/ftp/arxiv/papers/2208/2208.00280.pdf).
 *In Oxford Open Energy*.
 
 - **[FiDeFix@ICDCS ’23]**
 Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
-[The More You Know: Energy Labelling Enables More Sustainable Cryptocurrency Investment](https://arxiv.org/ftp/arxiv/papers/2208/2208.00280.pdf).
+[The More You Know: Energy Labelling Enables More Sustainable Cryptocurrency Investment](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/208278701/cex_sustainability_fidefix_2023.pdf).
 *In 1st Workshop on Fintech and Decentralized Finance (FiDeFix) co-located with ICDCS*.
 
 
