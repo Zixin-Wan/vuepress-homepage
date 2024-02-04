@@ -82,7 +82,7 @@ Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
 *In Psychology: Techniques and Application, 8(4): 206–213*.
 
 ## Services
-**Conference reviewer**: HICSS 2023, CHI Late-breaking Work 2023
+**Conference reviewer**: HICSS 2023, CHI Late-breaking Work 2023, 2024
 
 
 
