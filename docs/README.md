@@ -29,11 +29,6 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 ## Publications
 
 ### <font color=red>Usable Privacy and Security</font>
-- **[Draft]**
-**Zixin Wang**, Haojian Jin, and Yaxing Yao. 2023.
-Empowering Privacy Negotiation in Airbnb through Fine-grained Preferences.
-*In Preparation*.
-    
 - **[USEC ’24]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
 Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services.
