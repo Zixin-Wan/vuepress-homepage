@@ -70,19 +70,14 @@ Andreea-Elena Drăgnoiu, Moritz Platt, **Zixin Wang**, and Zhixuan Zhou. 2023.
 
 
 
-### <font color=purple>Education</font>
-- **[National Academic Conference of Psychology]**
-   Xiping Jiang, Yue Li, **Zixin Wang**, Ziyuan Xue, and Yuan Liu. 2021.
-   How Teacher Support Influences Student Life Satisfaction: A Mediating Analysis Based on PISA2018 Data.
-   *In 23rd National Academic Conference of Psychology*.
-    
+### <font color=purple>Education</font>   
 - **[Psychology: Techniques and Application]**
 **Zixin Wang** and Qinghua He. 2020.
 [Examining Factors Influencing Financial Literacy of College Students](http://www.xljsyyy.com/CN/abstract/abstract415.shtml).
 *In Psychology: Techniques and Application, 8(4): 206–213*.
 
 ## Services
-**Conference reviewer**: HICSS 2023, CHI Late-breaking Work 2023, 2024
+**Conference reviewer**: CHI Late-breaking Work 2023, 2024, CSCW 2024, IMX 2024
 
 
 
