@@ -24,7 +24,7 @@ I am a Master student in the [Department of Pyschology and Behavioral Sciences](
 
 Previously, I was a research assitant at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/).
 
-I am interested in usable security and privacy, and HCI. I use quantitative (e.g., survey) and qualitative (e.g., interview, content analysis) methods in my research.
+I am interested in usable security and privacy. I use quantitative (e.g., survey) and qualitative (e.g., interview, content analysis) methods in my research.
 
 ## Publications
 
