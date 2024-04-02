@@ -31,7 +31,7 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 ### <font color=red>Usable Privacy and Security</font>
 - **[USEC ’24]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
-Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services.
+[Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services](https://www.ndss-symposium.org/wp-content/uploads/usec2024-39-paper.pdf).
 *In Workshop on Usable Security and Privacy (USEC)*.
 
 - **[USENIX Security ’23]**
