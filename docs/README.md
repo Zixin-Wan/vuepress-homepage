@@ -12,15 +12,15 @@ socials:
 
 
 cv: /CV_Zixin_Wang_Academic.pdf
-bio: 3rd-year Master Student at Zhejiang University (ZJU)
-email: zixin_wang AT zju DOT edu DOT cn
+bio: 1st-yr PhD Student at University of Michigan, Ann Arbor
+email: zixinw AT umich DOT edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I am a Master student in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China.
+I am a PhD Student in the [School of Information](https://www.si.umich.edu/)) at the [University of Michigan, Ann Arbor](https://umich.edu/). I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China, and Master's degree in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/).
 
 Previously, I was a research assitant at [Virginia Tech](https://cs.vt.edu/), advised by [Dr. Yaxing Yao](http://www.yaxingyao.com/), [University of British Columba](http://www.psych.zju.edu.cn/) and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/). I am also fortunate to have worked alongside distinguished professors such as [Danny Yuxing Huang](https://engineering.nyu.edu/faculty/danny-yuxing-huang), [New York University](https://www.nyu.edu/) and [Haojian Jin](http://shift-3.com/), [UC San Diego](https://ucsd.edu/).
 
